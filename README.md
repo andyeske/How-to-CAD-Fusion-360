@@ -53,7 +53,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 *	A cake
 *	A pencil (using an engineering drawing)
 
-**To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
 **Session Recordings:** To be posted.
 
@@ -66,7 +66,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 2: Splines, Sketch Pictures and some Geography!
 (Saturday, March 9)
 
-**Objective:** In this session, we’ll continue exploring some of the most powerful Solidworks tools. Session 2’s goals include:
+**Objective:** In this session, we’ll continue exploring some of the most powerful Fusion 360 tools. Session 2’s goals include:
 •	Learning how to use the spline tool.
 •	Learning how to add a picture and sketch on it.
 
@@ -74,7 +74,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 *	A 3D model of a topographical geographical map, such as the [Big Island in Hawaii](https://seanshawaiianvacation.weebly.com/uploads/1/3/5/9/13590030/6795329_orig.gif).
 *	A keychain of your favorite logo. 
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
 **Session Recordings:** To be posted.
 
@@ -96,7 +96,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 *	A fidget spinner!
 *	A cube satellite.
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
 **Session Recordings:** To be posted.
 
@@ -117,7 +117,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 *	A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 *	A snowman. 
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
 **Session Recordings:** To be posted.
 
@@ -130,7 +130,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 5: Living in a world made from plastic bricks!
 (Saturday, April 6)
 
-**Objective:** In this session, we’ll move towards one of the most powerful features within Solidworks/Fusion 360, which is that of making assemblies and engineering drawings! Session 5's goals include:
+**Objective:** In this session, we’ll move towards one of the most powerful features within Fusion 360, which is that of making assemblies and engineering drawings! Session 5's goals include:
 * Learning how to make an assembly of multiple parts.
 * Learning (time-permitting) how to make an exploded view of an assembly and subsequentially animating it.
 * Learning how to create an engineering drawing of a part.
@@ -142,7 +142,7 @@ A [20x20 LEGO base plate](https://cdn.thingiverse.com/renders/1a/00/7d/4c/98/677
 *	An engineering drawings of the 2x4 LEGO block.
 *	A [simple LEGO house](https://www.holmesmurphy.com/wp-content/uploads/2016/12/Lego-House_Blue.jpg) assembly.
 
-**To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
 **Session Recordings:** To be posted.
 
