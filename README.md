@@ -1,6 +1,7 @@
 <a name="back_to_top"></a>
 # How to CAD Almost Anything: MIT ESP/HSSP 2024
 Welcome to How to CAD Almost Anything! Fusion 360 edition. In this repository, you'll find the workshop's slides, recordings and Fusion 360 files.
+
 _This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 5, 1.5-hour long sessions, to fit with the MIT ESP/HSSP schedule. While not as extensive as the Solidworks version, this course still provides a comprehensive introduction to Fusion 360, sufficient for students to be able to later navigate the CAD software independently!_
 
 ## Workshop Summary
