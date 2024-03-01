@@ -13,7 +13,7 @@ Through the workshop’s 5 sessions, the goal is for the student to:
 * Have built a comprehensive design portfolio, in the form of a presentation (see Workshop Portfolio (optional) section below), to showcase all the different in-class projects and Fusion 360 skills mastered.
 * Feel that it can take almost any object and exclaim, “I know how to CAD this!”.
 
-  _This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 5, 1.5-hour long sessions, to fit with the MIT ESP/HSSP schedule. While not as extensive as the Solidworks version, this course still provides a comprehensive introduction to Fusion 360, sufficient for students to be able to later navigate the CAD software independently!_
+_This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 5, 1.5-hour long sessions, to fit with the MIT ESP/HSSP schedule. While not as extensive as the Solidworks version, this course still provides a comprehensive introduction to Fusion 360, sufficient for students to be able to later navigate the CAD software independently!_
 
 ## Workshop Details
 
