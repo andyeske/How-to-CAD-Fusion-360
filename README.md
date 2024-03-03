@@ -55,9 +55,21 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=asp0r6rWSmQ.
 
 **Session Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%201) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
+
+**Figure:** _A Colorful Cake_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%201/N2%20Pencil.png" width="500">
+
+**Figure:** _A #2 Pencil_.
+</p>
   
 ([ back to top ](#back_to_top))
 
