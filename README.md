@@ -57,7 +57,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** To be posted.
+**Session Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%201) folder.
   
 ([ back to top ](#back_to_top))
 
