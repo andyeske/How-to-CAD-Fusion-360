@@ -90,7 +90,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** To be posted.
+**Session Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%202) folder.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
@@ -99,7 +99,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%202/Hawaii.png" width="500"> 
 
 **Figure:** _A Topographic Map of the Big Island of Hawaii_.
 </p>
