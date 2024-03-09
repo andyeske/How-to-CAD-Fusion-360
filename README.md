@@ -93,7 +93,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%202) folder.
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%202/Dragon%20Ball.png" width="500"> 
 
 **Figure:** _A 4-star Dragon Ball (in honor of the great Akira Toriyama)_.
 </p>
