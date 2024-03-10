@@ -88,7 +88,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=d0J25LBGKd8.
 
 **Session Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%202) folder.
 
