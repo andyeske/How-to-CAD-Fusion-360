@@ -103,6 +103,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Figure:** _A Topographic Map of the Big Island of Hawaii_.
 </p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%202/Bucee's.png" width="500"> 
+
+**Figure:** _BONUS: Buc-ee's Logo_!
+</p>
   
 ([ back to top ](#back_to_top))
 
