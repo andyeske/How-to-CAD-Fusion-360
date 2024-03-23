@@ -130,7 +130,19 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** To be posted.
+**Session Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%203) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%203/Funky%20Fidget.png" width="500"> 
+
+**Figure:** _A funky fidger spinner_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%203/Jet%20Engine%20Fidget.png" width="500"> 
+
+**Figure:** _BONUS: A Jet Engine fidger spinner_!
+</p>
   
 ([ back to top ](#back_to_top))
 
