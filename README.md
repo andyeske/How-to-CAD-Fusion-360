@@ -169,12 +169,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** To be posted.
+**Session Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%204) folder.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%204/Banana.png" width="500"> 
 
 **Figure:** _An attempt at a Fusion 360 banana_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%204/Snowman.png" width="500"> 
+
+**Figure:** _Frosty, the (Mii-inspired) snowman_!
 </p>
   
 ([ back to top ](#back_to_top))
