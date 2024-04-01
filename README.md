@@ -206,7 +206,19 @@ A [20x20 LEGO base plate](https://cdn.thingiverse.com/renders/1a/00/7d/4c/98/677
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** To be posted.
+**Session Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files/Session%205) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%205/Lego%2020x20%20plate.png" width="500"> 
+
+**Figure:** _A 20x20 LEGO base plate. The actual file may not have all the details shown in this picture due to file size limitations caused by the linear pattern_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%205/Lego%202x4%20brick.png" width="500"> 
+
+**Figure:** _A 2x4 LEGO brick_.
+</p>
   
 ([ back to top ](#back_to_top))
 
