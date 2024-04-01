@@ -197,7 +197,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Exploring the best-practices of drawing creation, including different formats and information to be conveyed (such as tolerancing, material properties).
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
-A [20x20 LEGO base plate](https://cdn.thingiverse.com/renders/1a/00/7d/4c/98/6772da62fb1c7aa8d36c046b39b84e32_preview_featured.jpg).
+* A [20x20 LEGO base plate](https://cdn.thingiverse.com/renders/1a/00/7d/4c/98/6772da62fb1c7aa8d36c046b39b84e32_preview_featured.jpg).
 *	A standard [2x4 LEGO block](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg).
 *	An engineering drawings of the 2x4 LEGO block.
 *	A [simple LEGO house](https://www.holmesmurphy.com/wp-content/uploads/2016/12/Lego-House_Blue.jpg) assembly.
@@ -211,7 +211,7 @@ A [20x20 LEGO base plate](https://cdn.thingiverse.com/renders/1a/00/7d/4c/98/677
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%205/Lego%2020x20%20plate.png" width="500"> 
 
-**Figure:** _A 20x20 LEGO base plate. The actual file may not have all the details shown in this picture due to file size limitations caused by the linear pattern_.
+**Figure:** _A 20x20 LEGO base plate (the actual file may not have all the details shown in this picture due to file size limitations caused by the linear pattern)_.
 </p>
 
 <p align="left">
