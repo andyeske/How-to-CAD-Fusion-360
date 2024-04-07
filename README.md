@@ -219,6 +219,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Figure:** _A 2x4 LEGO brick_.
 </p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%205/LEGO%202x4%20drawing.png" width="500"> 
+
+**Figure:** _A 2x4 LEGO brick engineering drawing_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Fusion-360/blob/main/Session%20Files/Session%205/LEGO%20House.png" width="500"> 
+
+**Figure:** _A LEGO house (or shrine?)_.
+</p>
   
 ([ back to top ](#back_to_top))
 
