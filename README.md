@@ -4,7 +4,7 @@ Welcome to How to CAD Almost Anything! Fusion 360 edition. In this repository, y
 
 ## Workshop Summary
 
-Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a mug, a bottle of Diet Coke, or a Saturn V rocket? What about designing the blades of a jet-engine? A test dummy? In this workshop MIT ESP workshop, you will learn the skills to design all of these, and much more! 
+Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a mug, a bottle of Diet Coke, or a Saturn V rocket? What about designing the blades of a jet-engine? A test dummy? In this MIT ESP workshop, you will learn the skills to design all of these, and much more! 
 
 Split into 5 1.5-hour long sessions, the first half of each session will be spent learning new Fusion 360 skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
