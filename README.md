@@ -8,11 +8,6 @@ Ever wondered how are objects from our daily lives designed? How can we generate
 
 Split into 5 1.5-hour long sessions, the first half of each session will be spent learning new Fusion 360 skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
-Through the workshop’s 5 sessions, the goal is for the student to:
-* Have learned all the essential Fusion 360 skills.
-* Have built a comprehensive design portfolio, in the form of a presentation (see Workshop Portfolio (optional) section below), to showcase all the different in-class projects and Fusion 360 skills mastered.
-* Feel that it can take almost any object and exclaim, “I know how to CAD this!”.
-
 _This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 5, 1.5-hour long sessions, to fit with the MIT ESP/HSSP schedule. While not as extensive as the Solidworks version, this course still provides a comprehensive introduction to Fusion 360, sufficient for students to be able to later navigate the CAD software independently!_
 
 ## Workshop Details
@@ -233,10 +228,6 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 </p>
   
 ([ back to top ](#back_to_top))
-
-## Workshop Portfolio (Optional)
-
-“How to CAD almost anything!” is a purely project-based workshop, with most, if not all the projects taking place as session activities. As a result, the workshop does not have any form of “homework”, other than additional work that the student is willing to put to expand on the in-class activities. However, as mentioned above, one of the purposes of this workshop is for the student to build a portfolio of projects, one which can be used to showcase its 3D-modeling skills. Hence, as an optional workshop activity, the student will be able to create a portfolio presentation, consisting of the slides made during/after each session. Although this is an ungraded activity, the student is encouraged to be creative and use this as an opportunity to showcase its learnings! Feel free to include screenshots from the Fusion 360 workspace, engineering drawings or anything deemed appropriate. Additionally, including one last slide with thoughts about the workshop and recommendations to make it even better next time would be greatly appreciated!
 
 ## Pictures/Hall of Fame
 
