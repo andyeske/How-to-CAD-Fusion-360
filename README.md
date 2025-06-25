@@ -18,9 +18,11 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Meeting Room:** [DIRC Lab](https://libraries.mit.edu/dirc/), Hayden Library (14N-132).
 
-**Software:** Fusion 360 (available free for students, [here](https://www.autodesk.com/campaigns/education/fusion-360-education?mktvar002=4246565%7CSEM%7C11094403154%7C112744811270%7Ckwd-443991970961&ef_id=EAIaIQobChMI67DzuZ7ShAMV42BHAR23hw13EAAYASAAEgI7xvD_BwE:G:s&s_kwcid=AL!11172!3!505132881006!e!!g!!autodesk%20fusion%20360%20education!11094403154!112744811270&mkwid=s%7Cpcrid%7C505132881006%7Cpkw%7Cautodesk%20fusion%20360%20education%7Cpmt%7Ce%7Cpdv%7Cc%7Cslid%7C%7Cpgrid%7C112744811270%7Cptaid%7Ckwd-443991970961%7Cpid%7C&utm_medium=cpc&utm_source=google&utm_campaign=&utm_term=autodesk%20fusion%20360%20education&utm_content=s%7Cpcrid%7C505132881006%7Cpkw%7Cautodesk%20fusion%20360%20education%7Cpmt%7Ce%7Cpdv%7Cc%7Cslid%7C%7Cpgrid%7C112744811270%7Cptaid%7Ckwd-443991970961%7C&gad_source=1&gclid=EAIaIQobChMI67DzuZ7ShAMV42BHAR23hw13EAAYASAAEgI7xvD_BwE)!)
-
 **Prerequisites:** Willingness to have fun and think outside the box!
+
+**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files) folder.
+
+**Software:** Autodesk [Fusion 360](https://www.autodesk.com/products/fusion-360/overview). All [Autodesk](https://www.autodesk.com/education/edu-software/overview) products are available free of charge to students and educators.
 
 ## Schedule
 
