@@ -47,8 +47,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Coloring parts and changing material properties.
 
 **Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
-*	A cake
-*	A pencil (using an engineering drawing)
+*	A cake.
+*	A pencil (using an engineering drawing).
 
 **To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Fusion 360 skills employed to during the design process.
 
