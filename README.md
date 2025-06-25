@@ -1,12 +1,12 @@
 <a name="back_to_top"></a>
 # How to CAD Almost Anything: MIT ESP/HSSP 2024
-Welcome to How to CAD Almost Anything! Fusion 360 edition. In this repository, you'll find the workshop's slides, recordings and Fusion 360 files.
+Welcome to How to CAD Almost Anything! Fusion 360 edition. In this repository, you'll find the workshop's slides, recordings and Autodesk Fusion 360 files.
 
 ## Workshop Summary
 
 Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a LEGO house, a snowman, or a cubesat? What about designing jet-engine-like fidget spinner? A banana? In this MIT ESP workshop, you will learn the skills to design all of these, and much more! 
 
-Split into 5 1.5-hour long sessions, the first half of each session will be spent learning new Fusion 360 skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
+Split into 5 1.5-hour long sessions, the first half of each session will be spent learning new [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
 _This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 5, 1.5-hour long sessions, to fit with the MIT ESP/HSSP schedule. While not as extensive as the Solidworks version, this course still provides a comprehensive introduction to Fusion 360, sufficient for students to be able to later navigate the CAD software independently!_
 
@@ -22,7 +22,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Fusion-360/tree/main/Session%20Files) folder.
 
-**Software:** Autodesk [Fusion 360](https://www.autodesk.com/products/fusion-360/overview). All [Autodesk](https://www.autodesk.com/education/edu-software/overview) products are available free of charge to students and educators.
+**Software:** Autodesk [Fusion 360](https://www.autodesk.com/products/fusion-360/overview). All Autodesk products are available [free of charge](https://www.autodesk.com/education/edu-software/overview) to students and educators.
 
 ## Schedule
 
